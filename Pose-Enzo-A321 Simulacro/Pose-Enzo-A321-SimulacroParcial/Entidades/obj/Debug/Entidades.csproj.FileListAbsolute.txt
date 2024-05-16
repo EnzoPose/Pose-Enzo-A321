@@ -1,0 +1,6 @@
+C:\Users\enzit\Desktop\Simulacro-Parcial\SimulacroParcial\Pose-Enzo-A321-SimulacroParcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\enzit\Desktop\Simulacro-Parcial\SimulacroParcial\Pose-Enzo-A321-SimulacroParcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\enzit\Desktop\Simulacro-Parcial\SimulacroParcial\Pose-Enzo-A321-SimulacroParcial\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\enzit\Desktop\Simulacro-Parcial\SimulacroParcial\Pose-Enzo-A321-SimulacroParcial\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\enzit\Desktop\Simulacro-Parcial\SimulacroParcial\Pose-Enzo-A321-SimulacroParcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\enzit\Desktop\Simulacro-Parcial\SimulacroParcial\Pose-Enzo-A321-SimulacroParcial\Entidades\obj\Debug\Entidades.pdb

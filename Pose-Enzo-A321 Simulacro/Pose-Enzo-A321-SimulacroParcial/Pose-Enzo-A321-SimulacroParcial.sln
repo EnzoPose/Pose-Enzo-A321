@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pose-Enzo-A321-SimulacroParcial", "Pose-Enzo-A321-SimulacroParcial\Pose-Enzo-A321-SimulacroParcial.csproj", "{2E9381FE-E097-4F88-B971-5A7F251167C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{5053F270-8377-4438-A2DF-937952F84E51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9381FE-E097-4F88-B971-5A7F251167C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9381FE-E097-4F88-B971-5A7F251167C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9381FE-E097-4F88-B971-5A7F251167C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9381FE-E097-4F88-B971-5A7F251167C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5053F270-8377-4438-A2DF-937952F84E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5053F270-8377-4438-A2DF-937952F84E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5053F270-8377-4438-A2DF-937952F84E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5053F270-8377-4438-A2DF-937952F84E51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {716E5F79-23EC-4DBF-8C63-A1040161744E}
+	EndGlobalSection
+EndGlobal
