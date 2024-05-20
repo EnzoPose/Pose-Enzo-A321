@@ -1,0 +1,10 @@
+C:\Users\enzit\Desktop\Ejercicios\Modelos-de-parcial\Pose-Enzo-A321 Simulacro 2\bin\Debug\Pose-Enzo-A321 Simulacro 2.exe.config
+C:\Users\enzit\Desktop\Ejercicios\Modelos-de-parcial\Pose-Enzo-A321 Simulacro 2\bin\Debug\Pose-Enzo-A321 Simulacro 2.exe
+C:\Users\enzit\Desktop\Ejercicios\Modelos-de-parcial\Pose-Enzo-A321 Simulacro 2\bin\Debug\Pose-Enzo-A321 Simulacro 2.pdb
+C:\Users\enzit\Desktop\Ejercicios\Modelos-de-parcial\Pose-Enzo-A321 Simulacro 2\bin\Debug\Entidades.dll
+C:\Users\enzit\Desktop\Ejercicios\Modelos-de-parcial\Pose-Enzo-A321 Simulacro 2\bin\Debug\Entidades.pdb
+C:\Users\enzit\Desktop\Ejercicios\Modelos-de-parcial\Pose-Enzo-A321 Simulacro 2\obj\Debug\Pose-Enzo-A321 Simulacro 2.csproj.AssemblyReference.cache
+C:\Users\enzit\Desktop\Ejercicios\Modelos-de-parcial\Pose-Enzo-A321 Simulacro 2\obj\Debug\Pose-Enzo-A321 Simulacro 2.csproj.CoreCompileInputs.cache
+C:\Users\enzit\Desktop\Ejercicios\Modelos-de-parcial\Pose-Enzo-A321 Simulacro 2\obj\Debug\Pose-Enz.0CE9F34F.Up2Date
+C:\Users\enzit\Desktop\Ejercicios\Modelos-de-parcial\Pose-Enzo-A321 Simulacro 2\obj\Debug\Pose-Enzo-A321 Simulacro 2.exe
+C:\Users\enzit\Desktop\Ejercicios\Modelos-de-parcial\Pose-Enzo-A321 Simulacro 2\obj\Debug\Pose-Enzo-A321 Simulacro 2.pdb
