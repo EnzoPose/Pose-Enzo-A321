@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Shopping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PrecioDeExportadores>44295</PrecioDeExportadores>
+  <PrecioDeImportadores>324900</PrecioDeImportadores>
+  <PrecioTotal>369195</PrecioTotal>
+  <CapacidadMaxima>5</CapacidadMaxima>
+  <Comercios>
+    <Comercio xsi:type="Exportador">
+      <CantidadDeEmpleados>15</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Caballo</Apellido>
+        <Nombre>Domingo</Nombre>
+      </Comerciante>
+      <Nombre>Electrónica 80</Nombre>
+      <PrecioAlquiler>15200</PrecioAlquiler>
+    </Comercio>
+    <Comercio xsi:type="Importador">
+      <CantidadDeEmpleados>91</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Samudio</Apellido>
+        <Nombre>Alberto</Nombre>
+      </Comerciante>
+      <Nombre>Granola S.A.</Nombre>
+      <PrecioAlquiler>23900</PrecioAlquiler>
+    </Comercio>
+    <Comercio xsi:type="Exportador">
+      <CantidadDeEmpleados>84</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Molleja</Apellido>
+        <Nombre>Joe</Nombre>
+      </Comerciante>
+      <Nombre>Matarife</Nombre>
+      <PrecioAlquiler>29095</PrecioAlquiler>
+    </Comercio>
+    <Comercio xsi:type="Importador">
+      <CantidadDeEmpleados>87</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Samudio</Apellido>
+        <Nombre>Alberto</Nombre>
+      </Comerciante>
+      <Nombre>Matarife</Nombre>
+      <PrecioAlquiler>203000</PrecioAlquiler>
+    </Comercio>
+    <Comercio xsi:type="Importador">
+      <CantidadDeEmpleados>22</CantidadDeEmpleados>
+      <Comerciante>
+        <Apellido>Caballo</Apellido>
+        <Nombre>Domingo</Nombre>
+      </Comerciante>
+      <Nombre>Matarife</Nombre>
+      <PrecioAlquiler>98000</PrecioAlquiler>
+    </Comercio>
+  </Comercios>
+</Shopping>

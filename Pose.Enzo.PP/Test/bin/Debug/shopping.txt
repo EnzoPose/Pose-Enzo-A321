@@ -1,0 +1,34 @@
+
+Capacidad del Shopping: 5
+Total por Importadores: 324900
+Total por Exmportadores: 44295
+Total: 369195
+************************
+Listado de Comercios
+************************
+Nombre: Electrónica 80
+Comerciante: Domingo, Caballo
+Cantidad de empleados: 15
+Tipo de producto: Tecnologico
+
+Nombre: Granola S.A.
+Comerciante: Alberto, Samudio
+Cantidad de empleados: 91
+Pais de Origen: UnionEuropea
+
+Nombre: Matarife
+Comerciante: Joe, Molleja
+Cantidad de empleados: 84
+Tipo de producto: Rural
+
+Nombre: Matarife
+Comerciante: Alberto, Samudio
+Cantidad de empleados: 87
+Pais de Origen: Taiwan
+
+Nombre: Matarife
+Comerciante: Domingo, Caballo
+Cantidad de empleados: 22
+Pais de Origen: China
+
+

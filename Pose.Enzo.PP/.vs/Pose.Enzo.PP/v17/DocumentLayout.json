@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{16B8E82C-4176-4B60-B54B-09469EA5ED00}|Test\\Test.csproj|c:\\users\\enzit\\desktop\\repo git\\pose-enzo-a321\\pose.enzo.pp\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B8E82C-4176-4B60-B54B-09469EA5ED00}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|c:\\users\\enzit\\desktop\\repo git\\pose-enzo-a321\\pose.enzo.pp\\entidades\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|solutionrelative:entidades\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:09:59.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Shopping.cs",
               "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Entidades\\Shopping.cs",
               "RelativeDocumentMoniker": "Entidades\\Shopping.cs",
               "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Entidades\\Shopping.cs",
               "RelativeToolTip": "Entidades\\Shopping.cs",
-              "ViewState": "AQIAAM4AAAAAAAAAAADwv+oAAAAPAAAA",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAswOoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T23:11:54.853Z",
               "EditorCaption": ""
