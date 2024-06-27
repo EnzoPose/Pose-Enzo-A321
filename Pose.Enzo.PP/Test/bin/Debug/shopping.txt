@@ -8,27 +8,27 @@ Listado de Comercios
 ************************
 Nombre: Electrónica 80
 Comerciante: Domingo, Caballo
-Cantidad de empleados: 15
+Cantidad de empleados: 40
 Tipo de producto: Tecnologico
 
 Nombre: Granola S.A.
 Comerciante: Alberto, Samudio
-Cantidad de empleados: 91
+Cantidad de empleados: 28
 Pais de Origen: UnionEuropea
 
 Nombre: Matarife
 Comerciante: Joe, Molleja
-Cantidad de empleados: 84
+Cantidad de empleados: 94
 Tipo de producto: Rural
 
 Nombre: Matarife
 Comerciante: Alberto, Samudio
-Cantidad de empleados: 87
+Cantidad de empleados: 6
 Pais de Origen: Taiwan
 
 Nombre: Matarife
 Comerciante: Domingo, Caballo
-Cantidad de empleados: 22
+Cantidad de empleados: 95
 Pais de Origen: China
 
 

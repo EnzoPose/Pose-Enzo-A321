@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.ModeloSegundoParcialLabII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\MSP.csproj|c:\\users\\enzit\\desktop\\repo git\\pose-enzo-a321\\pose.enzo.modelosegundoparciallabii\\sp\\modelosegundoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D639FFCB-5334-4404-87E5-3F1FC2EC845C}|SP\\MSP.csproj|solutionrelative:sp\\modelosegundoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1362C2-5C5A-4F72-A624-2349FF7C107E}|Entidades\\Entidades.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.ModeloSegundoParcialLabII\\entidades\\cajon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1362C2-5C5A-4F72-A624-2349FF7C107E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cajon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F416DE4-FCDA-4E31-80C1-03D603FA80E0}|TestUnitario\\TestUnitario.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.ModeloSegundoParcialLabII\\testunitario\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F416DE4-FCDA-4E31-80C1-03D603FA80E0}|TestUnitario\\TestUnitario.csproj|solutionrelative:testunitario\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModeloSegundoParcial.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.ModeloSegundoParcialLabII\\SP\\ModeloSegundoParcial.cs",
+              "RelativeDocumentMoniker": "SP\\ModeloSegundoParcial.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.ModeloSegundoParcialLabII\\SP\\ModeloSegundoParcial.cs",
+              "RelativeToolTip": "SP\\ModeloSegundoParcial.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAqwKcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T04:51:51.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cajon.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.ModeloSegundoParcialLabII\\Entidades\\Cajon.cs",
+              "RelativeDocumentMoniker": "Entidades\\Cajon.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.ModeloSegundoParcialLabII\\Entidades\\Cajon.cs",
+              "RelativeToolTip": "Entidades\\Cajon.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwFQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T07:16:57.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.ModeloSegundoParcialLabII\\TestUnitario\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestUnitario\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.ModeloSegundoParcialLabII\\TestUnitario\\UnitTest1.cs",
+              "RelativeToolTip": "TestUnitario\\UnitTest1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:15:13.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

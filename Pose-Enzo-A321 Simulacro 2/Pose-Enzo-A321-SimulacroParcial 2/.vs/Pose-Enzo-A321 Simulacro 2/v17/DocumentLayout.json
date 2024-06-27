@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D58F321-27E2-40C2-B736-E74968D984E1}|Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321 Simulacro 2.csproj|c:\\users\\enzit\\desktop\\repo git\\pose-enzo-a321\\pose-enzo-a321 simulacro 2\\pose-enzo-a321-simulacroparcial 2\\pose-enzo-a321 simulacro 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D58F321-27E2-40C2-B736-E74968D984E1}|Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321 Simulacro 2.csproj|solutionrelative:pose-enzo-a321 simulacro 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E3763B-19F2-4582-984D-E1DBB1BF3673}|Entidades\\Entidades.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E3763B-19F2-4582-984D-E1DBB1BF3673}|Entidades\\Entidades.csproj|solutionrelative:entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E3763B-19F2-4582-984D-E1DBB1BF3673}|Entidades\\Entidades.csproj|c:\\users\\enzit\\desktop\\repo git\\pose-enzo-a321\\pose-enzo-a321 simulacro 2\\pose-enzo-a321-simulacroparcial 2\\entidades\\estante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E3763B-19F2-4582-984D-E1DBB1BF3673}|Entidades\\Entidades.csproj|solutionrelative:entidades\\estante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E3763B-19F2-4582-984D-E1DBB1BF3673}|Entidades\\Entidades.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\entidades\\jugo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E3763B-19F2-4582-984D-E1DBB1BF3673}|Entidades\\Entidades.csproj|solutionrelative:entidades\\jugo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E3763B-19F2-4582-984D-E1DBB1BF3673}|Entidades\\Entidades.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\entidades\\galletita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E3763B-19F2-4582-984D-E1DBB1BF3673}|Entidades\\Entidades.csproj|solutionrelative:entidades\\galletita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0E3763B-19F2-4582-984D-E1DBB1BF3673}|Entidades\\Entidades.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\entidades\\gaseosa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0E3763B-19F2-4582-984D-E1DBB1BF3673}|Entidades\\Entidades.csproj|solutionrelative:entidades\\gaseosa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Pose-Enzo-A321 Simulacro 2\\Program.cs",
+              "RelativeDocumentMoniker": "Pose-Enzo-A321 Simulacro 2\\Program.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Pose-Enzo-A321 Simulacro 2\\Program.cs",
+              "RelativeToolTip": "Pose-Enzo-A321 Simulacro 2\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwFEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:12:22.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jugo.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Entidades\\Jugo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Jugo.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Entidades\\Jugo.cs",
+              "RelativeToolTip": "Entidades\\Jugo.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:40:27.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Galletita.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Entidades\\Galletita.cs",
+              "RelativeDocumentMoniker": "Entidades\\Galletita.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Entidades\\Galletita.cs",
+              "RelativeToolTip": "Entidades\\Galletita.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:40:25.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Gaseosa.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Entidades\\Gaseosa.cs",
+              "RelativeDocumentMoniker": "Entidades\\Gaseosa.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Entidades\\Gaseosa.cs",
+              "RelativeToolTip": "Entidades\\Gaseosa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:37:47.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estante.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Entidades\\Estante.cs",
+              "RelativeDocumentMoniker": "Entidades\\Estante.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Entidades\\Estante.cs",
+              "RelativeToolTip": "Entidades\\Estante.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAmwHkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T22:37:45.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro 2\\Pose-Enzo-A321-SimulacroParcial 2\\Entidades\\Producto.cs",
+              "RelativeToolTip": "Entidades\\Producto.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwCoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T21:59:56.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

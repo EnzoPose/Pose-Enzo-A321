@@ -1,0 +1,13 @@
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\obj\Debug\MSP.csproj.AssemblyReference.cache
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\obj\Debug\SP.ModeloSegundoParcial.resources
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\obj\Debug\SP.Properties.Resources.resources
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\obj\Debug\MSP.csproj.GenerateResource.cache
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\obj\Debug\MSP.csproj.CoreCompileInputs.cache
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\bin\Debug\SP.exe.config
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\bin\Debug\SP.exe
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\bin\Debug\SP.pdb
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\bin\Debug\Entidades.dll
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\bin\Debug\Entidades.pdb
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\obj\Debug\MSP.csproj.Up2Date
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\obj\Debug\SP.exe
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\SP\obj\Debug\SP.pdb

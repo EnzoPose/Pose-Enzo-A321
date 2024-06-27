@@ -6,7 +6,7 @@
   <CapacidadMaxima>5</CapacidadMaxima>
   <Comercios>
     <Comercio xsi:type="Exportador">
-      <CantidadDeEmpleados>15</CantidadDeEmpleados>
+      <CantidadDeEmpleados>40</CantidadDeEmpleados>
       <Comerciante>
         <Apellido>Caballo</Apellido>
         <Nombre>Domingo</Nombre>
@@ -15,7 +15,7 @@
       <PrecioAlquiler>15200</PrecioAlquiler>
     </Comercio>
     <Comercio xsi:type="Importador">
-      <CantidadDeEmpleados>91</CantidadDeEmpleados>
+      <CantidadDeEmpleados>28</CantidadDeEmpleados>
       <Comerciante>
         <Apellido>Samudio</Apellido>
         <Nombre>Alberto</Nombre>
@@ -24,7 +24,7 @@
       <PrecioAlquiler>23900</PrecioAlquiler>
     </Comercio>
     <Comercio xsi:type="Exportador">
-      <CantidadDeEmpleados>84</CantidadDeEmpleados>
+      <CantidadDeEmpleados>94</CantidadDeEmpleados>
       <Comerciante>
         <Apellido>Molleja</Apellido>
         <Nombre>Joe</Nombre>
@@ -33,7 +33,7 @@
       <PrecioAlquiler>29095</PrecioAlquiler>
     </Comercio>
     <Comercio xsi:type="Importador">
-      <CantidadDeEmpleados>87</CantidadDeEmpleados>
+      <CantidadDeEmpleados>6</CantidadDeEmpleados>
       <Comerciante>
         <Apellido>Samudio</Apellido>
         <Nombre>Alberto</Nombre>
@@ -42,7 +42,7 @@
       <PrecioAlquiler>203000</PrecioAlquiler>
     </Comercio>
     <Comercio xsi:type="Importador">
-      <CantidadDeEmpleados>22</CantidadDeEmpleados>
+      <CantidadDeEmpleados>95</CantidadDeEmpleados>
       <Comerciante>
         <Apellido>Caballo</Apellido>
         <Nombre>Domingo</Nombre>

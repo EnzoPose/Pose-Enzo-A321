@@ -12,6 +12,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            
             Comerciante comerciante1 = new Comerciante("Domingo", "Caballo");
             Comerciante comerciante2 = new Comerciante("Alberto", "Samudio");
             Comerciante comerciante3 = new Comerciante("Joe", "Molleja");
@@ -48,7 +49,9 @@ namespace Test
             Console.WriteLine("Objeto deserealizado:");
             Console.WriteLine("---------------------------------\n");
             Console.WriteLine(Shopping.Mostrar(deserializedShopping));
+            
             Console.ReadKey();
+
         }
     }
 }

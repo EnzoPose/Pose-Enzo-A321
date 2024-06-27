@@ -1,0 +1,6 @@
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\Entidades\bin\Debug\Entidades.dll
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\Entidades\bin\Debug\Entidades.pdb
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.dll
+C:\Users\enzit\Desktop\Repo git\Pose-Enzo-A321\Pose.Enzo.ModeloSegundoParcialLabII\Entidades\obj\Debug\Entidades.pdb

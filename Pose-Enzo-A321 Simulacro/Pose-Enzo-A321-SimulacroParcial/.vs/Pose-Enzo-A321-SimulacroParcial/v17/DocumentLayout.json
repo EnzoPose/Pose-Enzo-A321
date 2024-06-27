@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\enzit\\Desktop\\Pose.Enzo.A321\\Pose-Enzo-A321-SimulacroParcial\\",
+  "WorkspaceRootPath": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro\\Pose-Enzo-A321-SimulacroParcial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E9381FE-E097-4F88-B971-5A7F251167C4}|Pose-Enzo-A321-SimulacroParcial\\Pose-Enzo-A321-SimulacroParcial.csproj|c:\\users\\enzit\\desktop\\pose.enzo.a321\\pose-enzo-a321-simulacroparcial\\pose-enzo-a321-simulacroparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E9381FE-E097-4F88-B971-5A7F251167C4}|Pose-Enzo-A321-SimulacroParcial\\Pose-Enzo-A321-SimulacroParcial.csproj|c:\\users\\enzit\\desktop\\repo git\\pose-enzo-a321\\pose-enzo-a321 simulacro\\pose-enzo-a321-simulacroparcial\\pose-enzo-a321-simulacroparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E9381FE-E097-4F88-B971-5A7F251167C4}|Pose-Enzo-A321-SimulacroParcial\\Pose-Enzo-A321-SimulacroParcial.csproj|solutionrelative:pose-enzo-a321-simulacroparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5053F270-8377-4438-A2DF-937952F84E51}|Entidades\\Entidades.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro\\Pose-Enzo-A321-SimulacroParcial\\entidades\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5053F270-8377-4438-A2DF-937952F84E51}|Entidades\\Entidades.csproj|solutionrelative:entidades\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grupo.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro\\Pose-Enzo-A321-SimulacroParcial\\Entidades\\Grupo.cs",
+              "RelativeDocumentMoniker": "Entidades\\Grupo.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro\\Pose-Enzo-A321-SimulacroParcial\\Entidades\\Grupo.cs",
+              "RelativeToolTip": "Entidades\\Grupo.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:49:43.144Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Pose.Enzo.A321\\Pose-Enzo-A321-SimulacroParcial\\Pose-Enzo-A321-SimulacroParcial\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro\\Pose-Enzo-A321-SimulacroParcial\\Pose-Enzo-A321-SimulacroParcial\\Program.cs",
               "RelativeDocumentMoniker": "Pose-Enzo-A321-SimulacroParcial\\Program.cs",
-              "ToolTip": "C:\\Users\\enzit\\Desktop\\Pose.Enzo.A321\\Pose-Enzo-A321-SimulacroParcial\\Pose-Enzo-A321-SimulacroParcial\\Program.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose-Enzo-A321 Simulacro\\Pose-Enzo-A321-SimulacroParcial\\Pose-Enzo-A321-SimulacroParcial\\Program.cs",
               "RelativeToolTip": "Pose-Enzo-A321-SimulacroParcial\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAhAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T18:43:25.245Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

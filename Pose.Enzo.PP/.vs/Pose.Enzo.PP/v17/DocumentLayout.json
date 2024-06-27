@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\entidades\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|solutionrelative:entidades\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16B8E82C-4176-4B60-B54B-09469EA5ED00}|Test\\Test.csproj|c:\\users\\enzit\\desktop\\repo git\\pose-enzo-a321\\pose.enzo.pp\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16B8E82C-4176-4B60-B54B-09469EA5ED00}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|c:\\users\\enzit\\desktop\\repo git\\pose-enzo-a321\\pose.enzo.pp\\entidades\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|solutionrelative:entidades\\shopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\entidades\\comerciante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|solutionrelative:entidades\\comerciante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\entidades\\comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|solutionrelative:entidades\\comercio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\entidades\\exportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8D09795-89B5-42FC-B14C-D5A3E3DEA2AD}|Entidades\\Entidades.csproj|solutionrelative:entidades\\exportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
               "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Test\\Program.cs",
               "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwC4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T01:09:59.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Shopping.cs",
               "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Entidades\\Shopping.cs",
               "RelativeDocumentMoniker": "Entidades\\Shopping.cs",
               "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Entidades\\Shopping.cs",
               "RelativeToolTip": "Entidades\\Shopping.cs",
-              "ViewState": "AQIAAM4AAAAAAAAAAAAswOoAAAAPAAAA",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAUwOwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T23:11:54.853Z",
+              "WhenOpened": "2024-06-13T22:11:06.3Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exportador.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Entidades\\Exportador.cs",
+              "RelativeDocumentMoniker": "Entidades\\Exportador.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Entidades\\Exportador.cs",
+              "RelativeToolTip": "Entidades\\Exportador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:10:54.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comerciante.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Entidades\\Comerciante.cs",
+              "RelativeDocumentMoniker": "Entidades\\Comerciante.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Entidades\\Comerciante.cs",
+              "RelativeToolTip": "Entidades\\Comerciante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:10:44.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comercio.cs",
+              "DocumentMoniker": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Entidades\\Comercio.cs",
+              "RelativeDocumentMoniker": "Entidades\\Comercio.cs",
+              "ToolTip": "C:\\Users\\enzit\\Desktop\\Repo git\\Pose-Enzo-A321\\Pose.Enzo.PP\\Entidades\\Comercio.cs",
+              "RelativeToolTip": "Entidades\\Comercio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:14:56.921Z"
             }
           ]
         }
